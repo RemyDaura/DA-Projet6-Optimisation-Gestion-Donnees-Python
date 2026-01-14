@@ -24,7 +24,7 @@ Je suis intervenu pour **BottleNeck**, un marchand de vin prestigieux. L'entrepr
 <img src="images/Capture d'écran 2025-12-12 133710.png" width="500px"><img src="images/Capture d'écran 2025-12-23 130109.png" width="500px">
 <img src="images/Capture d'écran 2025-12-30 130428.png" width="500px">
 
-<img src="images/Capture d'écran 2025-12-30 132603.png" width="500px"><img src="images/Capture d'écran 2025-12-30 132503.png" width="500px">
+<img src="images/Capture d'écran 2025-12-30 132603.png" width="500px"><img src="images/Capture d'écran 2025-12-30 132508.png" width="500px">
 
 ---
 *Ce projet fait partie de la formation Data Analyst d'OpenClassrooms.*

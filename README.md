@@ -19,9 +19,9 @@ Je suis intervenu pour **BottleNeck**, un marchand de vin prestigieux. L'entrepr
 * **Technique :** Jointures relationnelles, Statistiques descriptives, Z-score.
 
 ---
-###  Aperçu des résultats
-**Détection visuelle des prix atypiques (Outliers) :**
-![Graphique des Outliers](images/outliers_graph.png)
+
+
+!(images/outliers_graph.png)
 
 ---
 *Ce projet fait partie de la formation Data Analyst d'OpenClassrooms.*
